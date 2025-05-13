@@ -34,7 +34,7 @@
 - 🏎️ Huge fan of Formula 1 — team radios are the best part
 - 😺 Cat person 100%. Will pause coding to pet a cat.
 - 🤓 Mechanical keyboard nerd
-- 😅 Most of my projects are in private repositories because they are work/client projects
+- 😅 Most of my projects are in private repositories because they are company/client projects
 
 ---
 
