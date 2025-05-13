@@ -1,47 +1,52 @@
-### 👋 Hi there, I'm Gusti!
-
-I'm a curious **web developer** and **network technician** who loves crafting clean interfaces and building cool things with code. Whether it's fixing network cables on high-rise buildings or debugging CSS quirks at 2am — I'm all in.
-
----
-
-### 💡 What I Do
-
-- 💻 Frontend Development — HTML, CSS, JavaScript, Tailwind CSS, Next.js
-- 🧠 Fast Learner — I debug, adapt, and solve problems efficiently
-- 🧰 Network Infrastructure — Designing and maintaining physical networks
-- 🔐 Learning about security, encryption, and mobile app development (React Native + TypeScript)
+<h1 align="center">✨ Hey, I’m Gusti! ✨</h1>
+<p align="center">
+  👨‍💻 Web Developer • ⌨️ Keyboard Enthusiast • 💥 Bug Buster<br>
+  <em>"There are no limits to what you can achieve." — Max Verstappen</em>
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## 🛠️ My Tech Playground
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=flat)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=000&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Networking](https://img.shields.io/badge/-Networking-006400?style=flat)
-
----
-
-### 🚀 Fun Projects
-
-- 🧪 **Skin Type Detector** — HTML/CSS/JS quiz widget to detect skin type (used in Elementor)
-- 🎨 **Gradient Animation Playground** — Experimenting with animated borders and custom shapes
-- 🔄 **Custom Carousels** — Load-more image sections with smooth animations
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
+</p>
 
 ---
 
-### 📫 Let's Connect!
+## 💡 What I Do
 
-- 📧 gustifadillah.dev[at]gmail[dot]com
-- 🌐 [gustifadillah.com](https://gustifadillah.com) (if available)
-- 💬 DM me for collabs, freelance work, or just to talk tech (or anime 👀)
+- 🖌️ Build websites that *feel* good to use
+- 🧠 Debug fast & learn faster
+- 🌀 Animate stuff just for fun (and because it looks cool)
 
 ---
 
-> "Stay curious. Break stuff. Learn fast."
+## 😸 More About Me
 
+- 🌪️ Still learning mobile development with react native
+- 🏎️ Huge fan of Formula 1 — team radios are the best part
+- 😺 Cat person 100%. Will pause coding to pet a cat.
+- 🤓 Mechanical keyboard nerd
+- 😅 Most of my projects are in private repositories because they are work/client projects
+
+---
+
+## 📬 Let’s Connect!
+
+<p>
+  📧 gfadhillah06@gmail.com <br>
+  📱 https://www.instagram.com/gusti_fad/ <br>
+  💼 https://www.linkedin.com/in/gusti-fadhilah/ <br>
+  💬 Always happy to chat about code, technology, design, race, anime, or weird internet stuff.
+</p>
+<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=435&lines=Always+Learning...;Always+Building...;Loving+F1%2C+Cats%2C+Keyboards+%26+Memes!" alt="Typing SVG" />
+</p>
